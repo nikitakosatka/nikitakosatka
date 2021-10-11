@@ -30,7 +30,7 @@ ITMO University student
 
 [![VK Badge](https://img.shields.io/badge/-nikitakosatka-2687F5?style=flat-square&labelColor=1ca0f1&logo=vk&logoColor=white&link=https://vk.com/nikitakosatka)](https://vk.com/nikitakosatka) 
 [![Instagram Badge](https://img.shields.io/badge/-kosatkanikita-D82B7E?style=flat-square&labelColor=E44560&logo=instagram&logoColor=white&link=https://instagram.com/kosatkanikita)](https://instagram.com/kosatkanikita) 
-[![Discord Badge](https://img.shields.io/badge/-nikitalmx-5865f2?style=flat-square&labelColor=5865f2&logo=github&logoColor=white&link=https://discord.com/nikitalmx#9103)](https://discord.com/nikitalmx#9103) 
+[![Discord Badge](https://img.shields.io/badge/-nikitalmx-5865f2?style=flat-square&labelColor=5865f2&logo=discord&logoColor=white&link=https://discord.com/nikitalmx#9103)](https://discord.com/nikitalmx#9103) 
 [![GitHub Badge](https://img.shields.io/badge/-nikitakosatka-171c23?style=flat-square&labelColor=171c23&logo=github&logoColor=white&link=https://github.com/nikitakosatka)](https://github.com/nikitakosatka) 
 
 
