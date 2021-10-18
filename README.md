@@ -14,7 +14,7 @@ ITMO University student
 - API
 - Docker
 - Git
-- Algorithms and data structures
+- Algorithms and Data Structures
 
 **⚡ Languages and Tools**  
 
