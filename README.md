@@ -38,4 +38,4 @@ ITMO University student
 
 
 **GitHub stats**
-<p align="center"><img height=200 src="https://github-readme-stats.vercel.app/api?username=nikitakosatka&show_icons=true&theme=radical&count_private=true" alt="nikitakosatka" /> <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitakosatka&count_private=true&hide=tsql&langs_count=10&theme=radical&layout=compact" alt="nikitakosatka" /></p>
+<p align="center"><img height=190 src="https://github-readme-stats.vercel.app/api?username=nikitakosatka&show_icons=true&theme=radical&count_private=true" alt="nikitakosatka" /> <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitakosatka&count_private=true&hide=tsql&langs_count=10&theme=radical&layout=compact" alt="nikitakosatka" /></p>
