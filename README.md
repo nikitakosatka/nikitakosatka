@@ -4,6 +4,7 @@ ITMO University student
 
 **Development skills**
 - Python
+- - Django/DRF
 - - Flask
 - - Web scraping
 - - Messengers bots
