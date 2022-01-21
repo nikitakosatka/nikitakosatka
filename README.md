@@ -1,32 +1,30 @@
 # Hi there ❤️
 I'm Nikita! <br>
-ITMO University student
+ITMO University SE25'
 
 **Development skills**
+- Algorithms and Data Structures
 - Python
 - - Django/DRF
 - - Flask
+- - Messengers Bots
 - - Web scraping
-- - Messengers bots
+- JavaScript
+- - React JS
+- - Electron JS
 - C
 - C++
-- JavaScript
-- - Electron JS
-- API
-- Docker
-- Git
-- Algorithms and Data Structures
 
-**⚡ Languages and Tools**  
+**Languages and Tools**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/34314541/150585124-8460f18a-9252-4e72-b44e-47b66c95bd74.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/34314541/150584790-480e02dd-982f-4555-adeb-f7dab7f98479.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/34314541/150592066-edb00215-4cc3-4da7-8ee9-059160046907.png"></code>
 <code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"></code>
-<code><img height="30" src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png"></code>
 
 **Social Networks**
 
