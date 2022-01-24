@@ -5,13 +5,13 @@ ITMO University SE'25
 **Development skills**
 - Algorithms and Data Structures
 - Python
-- - Django/DRF
-- - Flask
-- - Messengers Bots
-- - Web scraping
+  - Django/DRF
+  - Flask
+  - Messengers Bots
+  - Web scraping
 - JavaScript
-- - React JS
-- - Electron JS
+  - React JS
+  - Electron JS
 - C
 - C++
 
