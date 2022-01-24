@@ -1,6 +1,6 @@
 # Hi there ❤️
 I'm Nikita! <br>
-ITMO University SE25'
+ITMO University SE'25
 
 **Development skills**
 - Algorithms and Data Structures
