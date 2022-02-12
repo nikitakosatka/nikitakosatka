@@ -1,6 +1,5 @@
 # Hi there ❤️
-I'm Nikita!
-
+I'm Nikita!\
 ITMO University SE'25
 
 **Development skills**
