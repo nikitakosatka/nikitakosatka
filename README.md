@@ -10,7 +10,6 @@ ITMO University SE'25
   - Messengers Bots
   - Web scraping
 - JavaScript
-  - React JS
   - Electron JS
 - C
 - C++
