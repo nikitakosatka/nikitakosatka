@@ -1,5 +1,6 @@
 # Hi there ❤️
-I'm Nikita! <br>
+I'm Nikita!
+
 ITMO University SE'25
 
 **Development skills**
@@ -10,6 +11,7 @@ ITMO University SE'25
   - Messengers Bots
   - Web scraping
 - JavaScript
+  - React JS
   - Electron JS
 - C
 - C++
