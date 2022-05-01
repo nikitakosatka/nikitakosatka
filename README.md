@@ -6,20 +6,24 @@ ITMO University SE'25
 
 **Development skills**
 - Algorithms and Data Structures
+- Web Development
+  - REST API
+  - MVC/MVT
 - Python
   - Django
+  - FastAPI
   - Flask
-  - Messengers Bots
-  - Web scraping
 - JavaScript
-  - Electron JS
-- C
-- C++
+- C/C++
+  - STL
+  - OpenGL
+  - SFML
 
 **Languages and Tools**  
 
 [<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org)
 [<code><img height="30" src="https://user-images.githubusercontent.com/34314541/150585124-8460f18a-9252-4e72-b44e-47b66c95bd74.png"></code>](https://www.djangoproject.com)
+[<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"></code>](https://fastapi.tiangolo.com)
 [<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code><img height="30" src="https://user-images.githubusercontent.com/34314541/150584790-480e02dd-982f-4555-adeb-f7dab7f98479.png"></code>](https://reactjs.org)
 [<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>](https://en.cppreference.com/w/c/language)
