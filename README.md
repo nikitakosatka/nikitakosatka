@@ -6,18 +6,12 @@ ITMO University SE'25
 
 **Development skills**
 - Algorithms and Data Structures
+- OOP
 - Web Development
   - REST API
   - MVC/MVT
-- Python
-  - Django
-  - FastAPI
-  - Flask
-- JavaScript
-- C/C++
-  - STL
-  - OpenGL
-  - SFML
+  - Microservices
+  - RPC/gRPC
 
 **Languages and Tools**  
 
@@ -28,7 +22,11 @@ ITMO University SE'25
 [<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>](https://en.cppreference.com/w/c/language)
 [<code><img height="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>](https://en.cppreference.com/w/cpp/language)
 [<code><img height="30" src="https://user-images.githubusercontent.com/34314541/150592066-edb00215-4cc3-4da7-8ee9-059160046907.png"></code>](https://www.postgresql.org)
+[<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>](https://redis.io)
+[<code><img height="30" src="https://logojinni.com/image/logos/mongodb-icon-1.svg"></code>](https://www.mongodb.com)
+[<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"></code>](https://graphql.org)
 [<code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>](https://www.docker.com)
+
 
 **Social Networks**
 
