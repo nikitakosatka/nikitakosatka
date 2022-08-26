@@ -15,10 +15,8 @@ ITMO University SE'25
 
 **Languages and Tools**  
 
-[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org)
-[<code><img height="30" src="https://user-images.githubusercontent.com/34314541/150585124-8460f18a-9252-4e72-b44e-47b66c95bd74.png"></code>](https://www.djangoproject.com)
-[<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"></code>](https://fastapi.tiangolo.com)
 [<code><img height="30" src="https://user-images.githubusercontent.com/34314541/184476883-24747fb9-801d-41b1-91bb-4b3e161a5cec.png"></code>](https://go.dev)
+[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org)
 [<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>](https://en.cppreference.com/w/c/language)
 [<code><img height="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>](https://en.cppreference.com/w/cpp/language)
