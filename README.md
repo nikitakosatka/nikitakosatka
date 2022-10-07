@@ -4,15 +4,6 @@
 I'm Nikita!\
 ITMO University SE'25
 
-**Development skills**
-- Algorithms and Data Structures
-- OOP
-- Web Development
-  - REST API
-  - MVC/MVT
-  - Microservices
-  - RPC/gRPC
-
 **Languages and Tools**  
 
 [<code><img height="30" src="https://user-images.githubusercontent.com/34314541/184476883-24747fb9-801d-41b1-91bb-4b3e161a5cec.png"></code>](https://go.dev)
@@ -29,10 +20,7 @@ ITMO University SE'25
 **Social Networks**
 
 [![Telegram Badge](https://img.shields.io/badge/-nikitakosatka-2ba5e0?style=flat-square&labelColor=2ba5e0&logo=telegram&logoColor=white&link=https://t.me/nikitakosatka)](https://t.me/nikitakosatka) 
-[![VK Badge](https://img.shields.io/badge/-nikitakosatka-2687F5?style=flat-square&labelColor=2687F5&logo=vk&logoColor=white&link=https://vk.com/nikitakosatka)](https://vk.com/nikitakosatka) 
-[![LinkedIn Badge](https://img.shields.io/badge/-nikitausatov-0A66CA?style=flat-square&labelColor=0A66CA&logo=linkedin&logoColor=white&link=https://github.com/nikitakosatka)](https://www.linkedin.com/in/nikita-usatov-661098231/)
-[![Discord Badge](https://img.shields.io/badge/-nikitalmx-5865f2?style=flat-square&labelColor=5865f2&logo=discord&logoColor=white&link=https://discord.com/nikitalmx#9103)](https://discord.com/nikitalmx#9103) 
-[![Instagram Badge](https://img.shields.io/badge/-kosatkanikita-D82B7E?style=flat-square&labelColor=D82B7E&logo=instagram&logoColor=white&link=https://instagram.com/kosatkanikita)](https://instagram.com/kosatkanikita) 
+[![LinkedIn Badge](https://img.shields.io/badge/-nikitausatov-0A66CA?style=flat-square&labelColor=0A66CA&logo=linkedin&logoColor=white&link=https://github.com/nikitakosatka)](https://www.linkedin.com/in/nikitakosatka/)
 
 
 **GitHub stats**
